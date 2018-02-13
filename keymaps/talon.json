@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "cmd-shift-ctrl-alt-t": "talon:execute-command",
+    "cmd-shift-ctrl-alt-i": "talon:ignore"
+  }
+}

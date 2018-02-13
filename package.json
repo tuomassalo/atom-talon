@@ -1,0 +1,15 @@
+{
+  "name": "talon",
+  "main": "./lib/talon",
+  "version": "0.1.0",
+  "description": "Atom package for integration with Talon (talonvoice.com)",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "talon:execute-command"
+  },
+  "repository": "https://github.com/tuomassalo/atom-talon",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
