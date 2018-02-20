@@ -152,9 +152,10 @@ keymap = {
     'crew <dgndictation>': find_next,
     'trail <dgndictation>': find_previous,
 
+    'shackle': Key('cmd-l'),
     'selrang' + numerals: select_lines,
 
-    'shockey': Key('cmd-shift enter'),
+    'shockey': Key('cmd-shift-enter'),
     'shockoon': Key('cmd-right enter'),
     'sprinkoon' + numerals: jump_to_eol_and(lambda: press('enter')),
 }
