@@ -4,8 +4,7 @@
 
 # Usage
 
-- Clone the repository under `~/.atom/packages/` and restart Atom
-
+- Clone the repository under `~/.atom/packages/` and restart Atom: `git clone https://github.com/tuomassalo/atom-talon.git ~/.atom/packages/atom-talon`
 - Copy or symlink `atom.py` to `~/.talon/user/`
 
 See `atom.py` for supported commands.
